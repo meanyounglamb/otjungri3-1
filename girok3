@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+<head> <title>OTJUNGRI3</title>  </head>
+<body leftmargin=0 topmargin=0 marginwidth=0 marginheight=0>
+<style>
+@font-face {
+		font-family: 'tnrc';
+		src: url(TimesNewRomanMTStd-Cond.otf) format('truetype');
+}
+@font-face {
+  font-family: 'BareunBatang';
+  font-style: normal;
+  font-weight: 300;
+  src: url('//cdn.jsdelivr.net/korean-webfonts/1/orgs/othrs/kpa/BareunBatang/BareunBatangOTFL.woff2') format('woff2'), url('//cdn.jsdelivr.net/korean-webfonts/1/orgs/othrs/kpa/BareunBatang/BareunBatangOTFL.woff') format('woff');
+}
+body, table, div, p {font-family: 'tnrc', 'BareunBatang', serif;}
+body{background-color:white; 
+}
+table, th, tr, td {
+  border: 0px solid black;
+   margin: 0 auto;
+    float: none;
+    padding: 0px;
+    border-collapse: collapse; 
+    vertical-align: top;
+}
+
+}
+div {
+  margin: 0px auto;
+    padding: 0;
+        vertical-align: top;
+        display:inline-block
+
+}
+
+p{
+  text-align: left;
+  margin: 0px 0px 0px 0px;
+  padding: 0px;
+}
+p.name {
+ font-size: 20px;
+  line-height: 1.6em;
+  text-indent: 0px;
+  margin: 10px 10px 0px 20px;
+  word-break: keep-all;
+}
+p.text1 {
+ font-size: 15px;
+  line-height: 1.6em;
+  text-indent: 0px;
+  margin: 10px 10px 10px 20px;
+  word-break: keep-all;
+}
+
+p.text2 {
+  font-size: 20px;
+  line-height: 1.6em;
+  text-indent: 0px;
+  margin: 10px 20px 10px 20px;
+  word-break: keep-all;
+}
+	p.text3 {
+  font-size: 15px;
+  line-height: 1.6em;
+  text-indent: 0px;
+  margin: 10px 20px 10px 20px;
+  word-break: keep-all;
+}
+
+
+hr{
+	border: solid 1px black;
+	margin: 0px;
+  padding: 0px;
+  
+}
+
+img{
+  margin: 0px;
+  padding: 0px;
+  float: none;
+  display: block;
+}  
+ a:link { color: black; text-decoration: none;}
+ a:visited { color: black; text-decoration: none;}
+ a:hover { color: red; text-decoration: none;}
+ a:active { color: black; text-decoration: none;}
+
+.over    {color:black; font-size:50px; text-decoration:none}
+.out     {color:black; font-size:50px; text-decoration:none}
+
+
+</style>
+
+
+<br>
+<hr style="border: SOLID 1.5px;">
+
+<a onclick="this.nextSibling.style.display=(this.nextSibling.style.display=='none')?'block':'none';" href="javascript:void(0)"> 
+<p class="name">OTJUNGRI3 2017.8.26 – 9.9 @원룸ONEROOM
+<hr style="border: SOLID 1.5px;"></p>
+</a><div style="DISPLAY: none">
+<img src="ojr3_001.JPG" width="100%"><p class="name">
+‘옷정리’는 옷장 속 입지 않는 옷을 정리하는 행사입니다. 세 번째 ‘옷정리’는 28여 명의 여성 작업자들과 함께, 8.26 — 9.9 을지로에 위치한 공간 원룸ONEROOM에서 개최합니다. 참여자들은 더는 입지 않지만 버리기에는 아깝고 다른 사람이 입으면 좋을 옷들을 내놓고, ‘옷정리’는 참여자가 내놓은 옷을 10개의 옷장에 브랜드별로 디스플레이하여 위탁판매합니다.
+<p class="name">
+운영기간: 9일<br>참여자: 28명 
+<br>
+	입고된 옷 수: 878개<br>
+정리된 옷 수: 620개<br>구매자: 약 400명<br>	
+<hr><p class="name">일시: 2017년 8월 26일 — 9월 9일 (수목금토 13:00 — 20:00 운영)<br>주최: 옷정리 <br>장소·주관: 원룸ONEROOM<br>
+후원: 불도저프레스, <a href="http://swatch-service.com" target="_blank">스와치서비스</a>, 송전동<br>기획: <a href="http://meanyounglamb.com" target="_blank">양민영</a>, 송하영, 최조훈<br>전시·그래픽 디자인: <a href="http://meanyounglamb.com" target="_blank">양민영</a> <br>공간 디자인: 최조훈<br>옷장 디자인: <a href="http://swatch-service.com" target="_blank">스와치서비스</a><br>사진: <a href="http://daainnlee.tumblr.com" target="_blank">이다인</a> <br>음악: 위지영<hr> <p class="name">참여:
+</p><hr>                        
+ </div>
+
+
+ <p class="text2">OTJUNGRI3 ⓒ2017 All right reserved. 
+<hr>
+</body>
+</html>
